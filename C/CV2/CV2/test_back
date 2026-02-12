@@ -1,0 +1,57 @@
+#include  <opencv2/opencv.hpp>
+
+cv::Mat a = cv::Mat::zeros(cv::Size(400, 300), CV_8UC3);
+
+cv::Point point(0, 0);
+
+void on_mouse(int event, int x, int y, int flags, void* param)
+{
+	if (event == cv::MouseEventTypes::EVENT_LBUTTONDOWN)
+	{
+		//cv::circle(a, cv::Point(x, y), 10, cv::Scalar(0, 255, 0),  -1 );
+		//cv::circle(img, center, radius, color, thickness, lineType, shift)
+		point = cv::Point(x, y);
+	}
+}
+
+int main()
+{
+
+	cv::namedWindow("test");
+	cv::setMouseCallback("test", on_mouse);
+
+
+	cv::line(a, cv::Point(10, 10), cv::Point(100, 250), cv::Scalar(255, 0, 0), 2);
+	// 'a' 이미지 위에 ,  Point(10,10) 시작점  ,  Point(100, 250) 끝점,  파란색 ,  굵기2 
+
+	cv::rectangle(a, cv::Point(100, 100), cv::Point(300, 200), cv::Scalar(0, 0, 255), 2);
+	// 'a' 이미지 위에,   왼쪽 상단 좌표 , 오른쪽 하단 좌표 , 크기로 직사각형
+	//  굵기를 -1 로 하면 색칠됨
+
+	cv::putText(a, "Doorunderground", cv::Point(10, 290), cv::FONT_HERSHEY_COMPLEX, 0.5, cv::Scalar(0, 0, 255));
+
+
+	while (1)
+	{
+
+		cv::Mat dst;
+		a.copyTo(dst);
+		cv::circle(dst, point, 5, cv::Scalar(0, 255, 0), -1);
+
+		cv::imshow("test", dst);
+		char key = cv::waitKey(20);
+		if (key == 'i')
+		{
+			a = -a;
+		}
+		else if (key == 'q')
+		{
+			break;
+		}
+	}
+
+	cv::imwrite("test.jpg", a);
+
+	return 0;
+}
+
