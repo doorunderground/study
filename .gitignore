@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+**/.vs/
+Debug/
+x64/
+*.ipch
+*.VC.db
+
+# Build
+build/
+
+# Large model files
+*.dat
+*.zip
