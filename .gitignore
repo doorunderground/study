@@ -12,3 +12,6 @@ build/
 # Large model files
 *.dat
 *.zip
+
+# Dataset files
+CNN/FashionMNIST/
