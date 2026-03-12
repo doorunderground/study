@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          24.022900763358777,
+          47.30534351145038
+        ],
+        [
+          49.213740458015266,
+          48.832061068702295
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          36.61832061068702,
+          44.25190839694657
+        ],
+        [
+          36.61832061068702,
+          52.267175572519086
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          85.09160305343511,
+          49.977099236641216
+        ],
+        [
+          108.37404580152672,
+          51.12213740458015
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          94.63358778625954,
+          46.160305343511446
+        ],
+        [
+          95.3969465648855,
+          52.648854961832065
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "w_la514.jpg",
+  "imageData": null,
+  "imageHeight": 124,
+  "imageWidth": 124
+}

@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          28.772727272727273,
+          57.68181818181819
+        ],
+        [
+          56.409090909090914,
+          58.04545454545455
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          89.86363636363637,
+          57.68181818181819
+        ],
+        [
+          116.04545454545456,
+          56.59090909090909
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          42.95454545454546,
+          50.77272727272727
+        ],
+        [
+          42.95454545454546,
+          62.409090909090914
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          101.86363636363637,
+          50.04545454545455
+        ],
+        [
+          101.86363636363637,
+          60.59090909090909
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "w_shupashupa121.jpg",
+  "imageData": null,
+  "imageHeight": 143,
+  "imageWidth": 143
+}

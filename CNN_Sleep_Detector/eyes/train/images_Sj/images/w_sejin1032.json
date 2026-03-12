@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          33.902010050251256,
+          67.0678391959799
+        ],
+        [
+          58.02261306532663,
+          65.81155778894473
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          91.18844221105527,
+          63.550251256281406
+        ],
+        [
+          114.55527638190955,
+          62.04271356783919
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          46.46482412060302,
+          62.04271356783919
+        ],
+        [
+          47.21859296482412,
+          69.58040201005026
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          101.2386934673367,
+          59.027638190954775
+        ],
+        [
+          101.48994974874373,
+          64.80653266331659
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "w_sejin1032.jpg",
+  "imageData": null,
+  "imageHeight": 157,
+  "imageWidth": 157
+}

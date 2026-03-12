@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          49.82098765432099,
+          71.58024691358025
+        ],
+        [
+          77.29012345679013,
+          69.7283950617284
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          61.24074074074075,
+          66.0246913580247
+        ],
+        [
+          63.40123456790124,
+          75.90123456790124
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          122.35185185185185,
+          69.11111111111111
+        ],
+        [
+          143.03086419753086,
+          68.18518518518519
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          133.15432098765433,
+          62.32098765432099
+        ],
+        [
+          134.38888888888889,
+          73.4320987654321
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "w_kkeum503.jpg",
+  "imageData": null,
+  "imageHeight": 191,
+  "imageWidth": 191
+}

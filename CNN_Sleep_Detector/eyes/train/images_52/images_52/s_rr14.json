@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          45.43376068376069,
+          70.4337606837607
+        ],
+        [
+          65.83974358974359,
+          68.61752136752138
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          116.48076923076923,
+          63.702991452991455
+        ],
+        [
+          136.45940170940173,
+          60.92521367521368
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          56.75854700854701,
+          72.35683760683762
+        ],
+        [
+          56.544871794871796,
+          70.22008547008548
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          127.48504273504275,
+          63.91666666666667
+        ],
+        [
+          127.16452991452994,
+          62.20726495726497
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_rr14.jpg",
+  "imageData": null,
+  "imageHeight": 182,
+  "imageWidth": 182
+}

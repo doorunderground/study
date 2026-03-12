@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          35.26744186046511,
+          59.91860465116278
+        ],
+        [
+          60.383720930232556,
+          59.45348837209302
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          49.22093023255814,
+          55.73255813953487
+        ],
+        [
+          49.22093023255814,
+          63.17441860465115
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          95.73255813953487,
+          58.52325581395348
+        ],
+        [
+          121.77906976744185,
+          57.59302325581395
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          105.96511627906976,
+          52.94186046511628
+        ],
+        [
+          107.82558139534883,
+          62.24418604651163
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "w_la227.jpg",
+  "imageData": null,
+  "imageHeight": 151,
+  "imageWidth": 151
+}

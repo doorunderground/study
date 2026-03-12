@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "left",
+      "points": [
+        [
+          107.08823529411764,
+          69.55882352941175
+        ],
+        [
+          136.97058823529414,
+          72.85294117647058
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "right",
+      "points": [
+        [
+          65.20588235294117,
+          70.5
+        ],
+        [
+          38.61764705882352,
+          71.20588235294117
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          123.32352941176471,
+          68.85294117647058
+        ],
+        [
+          123.08823529411764,
+          72.85294117647058
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          50.852941176470594,
+          67.67647058823529
+        ],
+        [
+          51.08823529411765,
+          73.55882352941175
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "w_ladofa248.jpg",
+  "imageData": null,
+  "imageHeight": 173,
+  "imageWidth": 173
+}

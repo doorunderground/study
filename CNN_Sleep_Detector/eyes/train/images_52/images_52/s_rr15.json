@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          49.050000000000004,
+          70.05000000000001
+        ],
+        [
+          71.35000000000001,
+          68.15
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          115.25,
+          64.95
+        ],
+        [
+          141.65,
+          66.45
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          61.65,
+          71.85000000000001
+        ],
+        [
+          61.449999999999996,
+          70.05000000000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          128.15,
+          68.35000000000001
+        ],
+        [
+          128.15,
+          66.55000000000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_rr15.jpg",
+  "imageData": null,
+  "imageHeight": 184,
+  "imageWidth": 184
+}

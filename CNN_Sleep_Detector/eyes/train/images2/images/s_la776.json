@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          35.879629629629626,
+          57.17592592592591
+        ],
+        [
+          56.71296296296296,
+          53.935185185185176
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          96.52777777777777,
+          53.935185185185176
+        ],
+        [
+          118.28703703703702,
+          54.39814814814814
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          105.78703703703702,
+          53.935185185185176
+        ],
+        [
+          105.78703703703702,
+          56.71296296296295
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          46.99074074074074,
+          56.249999999999986
+        ],
+        [
+          46.99074074074074,
+          59.49074074074073
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_la776.jpg",
+  "imageData": null,
+  "imageHeight": 150,
+  "imageWidth": 150
+}

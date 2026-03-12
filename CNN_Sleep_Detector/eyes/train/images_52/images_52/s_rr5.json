@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          54.26506024096386,
+          92.81927710843374
+        ],
+        [
+          82.57831325301206,
+          85.71084337349399
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          135.71084337349396,
+          79.56626506024098
+        ],
+        [
+          163.78313253012047,
+          80.40963855421688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          69.20481927710844,
+          88.00000000000001
+        ],
+        [
+          69.56626506024098,
+          90.77108433734941
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          150.04819277108433,
+          78.72289156626508
+        ],
+        [
+          150.04819277108433,
+          81.855421686747
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_rr5.jpg",
+  "imageData": null,
+  "imageHeight": 226,
+  "imageWidth": 226
+}

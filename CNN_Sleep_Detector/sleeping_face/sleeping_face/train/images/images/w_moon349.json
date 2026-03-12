@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "left",
+      "points": [
+        [
+          107.29646017699115,
+          71.30825958702064
+        ],
+        [
+          142.6946902654867,
+          67.76843657817109
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "right",
+      "points": [
+        [
+          33.2551622418879,
+          73.37315634218288
+        ],
+        [
+          67.17846607669617,
+          71.89823008849557
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          51.249262536873154,
+          66.8834808259587
+        ],
+        [
+          51.544247787610615,
+          78.38790560471976
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          121.75073746312684,
+          63.343657817109154
+        ],
+        [
+          122.9306784660767,
+          73.07817109144543
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "w_moon349.jpg",
+  "imageData": null,
+  "imageHeight": 173,
+  "imageWidth": 173
+}

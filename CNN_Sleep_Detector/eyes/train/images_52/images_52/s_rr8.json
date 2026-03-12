@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          41.45,
+          80.15
+        ],
+        [
+          63.75,
+          70.05
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          100.45,
+          59.35000000000001
+        ],
+        [
+          123.25000000000001,
+          56.25
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          53.45,
+          75.85000000000001
+        ],
+        [
+          54.05,
+          77.05
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          112.55,
+          57.05
+        ],
+        [
+          112.65,
+          58.95
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_rr8.jpg",
+  "imageData": null,
+  "imageHeight": 174,
+  "imageWidth": 174
+}

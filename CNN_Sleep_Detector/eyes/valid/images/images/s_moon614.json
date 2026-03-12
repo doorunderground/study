@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "left",
+      "points": [
+        [
+          95.0,
+          61.086956521739125
+        ],
+        [
+          123.1159420289855,
+          52.97101449275362
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          110.07246376811594,
+          58.47826086956521
+        ],
+        [
+          110.07246376811594,
+          59.92753623188405
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "right",
+      "points": [
+        [
+          26.884057971014492,
+          89.49275362318839
+        ],
+        [
+          54.42028985507246,
+          75.8695652173913
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          42.826086956521735,
+          84.56521739130434
+        ],
+        [
+          44.27536231884057,
+          86.01449275362319
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_moon614.jpg",
+  "imageData": null,
+  "imageHeight": 170,
+  "imageWidth": 170
+}

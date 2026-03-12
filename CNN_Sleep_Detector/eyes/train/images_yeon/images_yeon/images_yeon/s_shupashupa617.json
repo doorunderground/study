@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          31.50757575757575,
+          74.5
+        ],
+        [
+          52.34090909090909,
+          66.54545454545453
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          83.40151515151514,
+          57.07575757575758
+        ],
+        [
+          105.74999999999999,
+          51.3939393939394
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          40.598484848484844,
+          69.95454545454545
+        ],
+        [
+          42.11363636363636,
+          73.36363636363636
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          94.00757575757576,
+          52.151515151515156
+        ],
+        [
+          94.76515151515152,
+          55.18181818181818
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_shupashupa617.jpg",
+  "imageData": null,
+  "imageHeight": 149,
+  "imageWidth": 149
+}

@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          29.566037735849058,
+          68.24528301886792
+        ],
+        [
+          55.509433962264154,
+          61.641509433962256
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          43.24528301886793,
+          64.0
+        ],
+        [
+          43.716981132075475,
+          66.35849056603774
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          96.0754716981132,
+          53.62264150943396
+        ],
+        [
+          120.60377358490565,
+          51.73584905660377
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          107.39622641509433,
+          51.73584905660377
+        ],
+        [
+          107.86792452830188,
+          54.09433962264151
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_la1351.jpg",
+  "imageData": null,
+  "imageHeight": 153,
+  "imageWidth": 153
+}

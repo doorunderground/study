@@ -68,7 +68,7 @@ while True:
     if len(faces) > 0:
         faces = sorted(faces, key=lambda x:x[2], reverse=True)
         x, y, w, h = faces[0]
-        crop = image[y:y+h, x:x+h].copy()
+        crop = image[y:y+h, x:x+w].copy()
         cv2.rectangle(image, (x, y), (x+w, y+h), (255, 0, 0), 2)
 
         resized = cv2.resize(crop, (224, 224))

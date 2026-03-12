@@ -1,0 +1,82 @@
+{
+  "version": "5.11.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "right",
+      "points": [
+        [
+          49.939890710382514,
+          74.74863387978142
+        ],
+        [
+          70.70491803278689,
+          72.1256830601093
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "left",
+      "points": [
+        [
+          117.48087431693989,
+          66.224043715847
+        ],
+        [
+          138.46448087431693,
+          66.11475409836066
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "rs",
+      "points": [
+        [
+          60.21311475409837,
+          73.65573770491804
+        ],
+        [
+          60.431693989071036,
+          76.06010928961749
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ls",
+      "points": [
+        [
+          127.09836065573771,
+          66.55191256830601
+        ],
+        [
+          127.20765027322403,
+          68.08196721311475
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "line",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "s_rr7.jpg",
+  "imageData": null,
+  "imageHeight": 186,
+  "imageWidth": 186
+}
