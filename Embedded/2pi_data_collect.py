@@ -19,7 +19,7 @@ def ir_reader():
     global latest_ir
     while True:
         ser.write('\n'.encode())
-        line = ser.readline().decode('utf-8').strip()
+        line = ser.readline().decode('utf-8', errors='ignore').strip()
         if len(line) == 5 and all(c in '01' for c in line):
             latest_ir = line
         time.sleep(0.01)

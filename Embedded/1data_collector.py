@@ -60,10 +60,10 @@ try:
             cmd, action = '100,100', 's'
         elif keyboard.is_pressed('w'):
             cmd, action = '-100,-100', 'w'
-        elif keyboard.is_pressed('a'):
-            cmd, action = '-100,40', 'a'
         elif keyboard.is_pressed('d'):
-            cmd, action = '40,-100', 'd'
+            cmd, action = '-100,40', 'd'
+        elif keyboard.is_pressed('a'):
+            cmd, action = '40,-100', 'a'
         else:
             cmd, action = '0,0', 'stop'
 
