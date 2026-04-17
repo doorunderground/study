@@ -30,7 +30,7 @@ void genBigRandArray(int* array, int size) // 난수 생성
 void suffleBigArray(int* array, int size)
 {
     int index1, index2; // 랜덤으로 뽑은 두 위치(index)
-    int temp = 0; // swap
+    int temp = 0; // swap 
 
     srand((unsigned)time(NULL));
 
