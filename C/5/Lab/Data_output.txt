@@ -1,0 +1,39 @@
+
+ArrayStatistics_basicArray .....
+Total ( 10) interger data : 
+      11      12      13      14      15      16      17      18      19      20
+
+min ( 11), max ( 20), sum (155.00), average (15.50), variance ( 8.25), standard deviation ( 2.87)
+
+ArrayStatistics externArray .....
+Total ( 35) interger data : 
+       1       2       3       4       5       6       7       8       9      10
+      11      12      13      14      15      16      17      18      19      20
+      21      22      23      24      25      26      27      28      29      30
+      31      32      33      34      35
+
+min (  1), max ( 35), sum (630.00), average (18.00), variance (102.00), standard deviation (10.10)
+
+ArrayStatistics_fileDataArray ......
+Total ( 20) interger data : 
+       1       2       3       4       5       6       7       8       9      10
+      11      12      13      14      15      16      17      18      19      20
+
+min (  1), max ( 20), sum (210.00), average (10.50), variance (33.25), standard deviation ( 5.77)
+
+ArrayStatistics_inputArray .....
+Total ( 10) interger data : 
+      10       1       2       3       4       5       6       7       8       9
+
+min (  1), max ( 10), sum (55.00), average ( 5.50), variance ( 8.25), standard deviation ( 2.87)
+
+ArrayStatistics_genBigRandArray .....
+Total (1000000) interger data : 
+  939742  861175  988090  909706  573531  290227  386826  170744  353946  761167
+  274819  993886  606861   44101  357103  240350  171321  918147  957487  267921
+. . . . . . . . . . 
+   49463  770668   10997  112644  901236  717846  323208  785461  137969  782538
+  526659  381146  635332  552967   38102  654874  688533  574783  491267  771281
+
+
+min (  0), max (999999), sum (499999500000.00), average (499999.50), variance (83333333333.79), standard deviation (288675.13)

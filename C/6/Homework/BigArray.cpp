@@ -56,10 +56,27 @@ int binarySearch(int *array, int size, int key_to_search)
     return -1;
 }
 
+// 선택 정렬
 void selectionSort(int *array, int size)
 {
-    int index_min;       // index
-    int minElement;      // value
+    for (int i = 0; i < size-1; i++)
+    {
+        int index = i;
+        int value = array[i];
+        int temp = 0;
 
-
+        for (int j = i+1; j < size; j++)
+        { 
+            if (array[j] < value)
+            {
+                index = j;
+                value = array[j];
+            }
+        }
+        temp = array[index];
+        array[index] = array[i];
+        array[i] = temp;
+    }
 }
+
+//퀵 정렬

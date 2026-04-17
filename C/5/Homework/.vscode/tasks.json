@@ -1,15 +1,19 @@
 {
     "tasks": [
         {
-            "type": "shell",
+            "type": "cppbuild",
             "label": "C/C++: g++.exe 활성 파일 빌드",
-            "command": "& 'C:/mingw64/bin/g++.exe' -fdiagnostics-color=always -g (Get-ChildItem '*.cpp').FullName -o main.exe",
+            "command": "C:\\mingw64\\bin\\g++.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${fileDirname}\\main.cpp",
+                "${fileDirname}\\BigArray.cpp",
+                "-o",
+                "${fileDirname}\\main.exe"
+            ],
             "options": {
-                "cwd": "${fileDirname}",
-                "shell": {
-                    "executable": "powershell.exe",
-                    "args": ["-Command"]
-                }
+                "cwd": "C:\\mingw64\\bin"
             },
             "problemMatcher": [
                 "$gcc"
