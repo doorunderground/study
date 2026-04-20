@@ -7,8 +7,7 @@
             "command": "C:\\mingw64\\bin\\g++.exe",
             "args": [
                 "-g",
-                "${fileDirname}\\main.cpp",
-                "${fileDirname}\\Mtrx.cpp",
+                "${fileDirname}\\*.cpp",
                 "-o",
                 "${fileDirname}\\main.exe"
             ],
