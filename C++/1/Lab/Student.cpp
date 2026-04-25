@@ -168,6 +168,21 @@ void selectionSortStudents_By_ID(Student* student,int num_students)
 
 Student* binarySearchStudentByID(Student* students, int num_students, int st_id)
 {
+    int mid, low, high;
     
+    low = 0;
+    high = num_students -1 ;
+
+    while (low <= high)
+    {
+        mid = (low + high) / 2;
+        if (st_id == students[mid].st_id)
+            return &students[mid];
+        else if (st_id < students[mid].st_id)
+            high = mid - 1;
+        else
+            low = mid + 1;
+    }
+    return NULL;
 
 }
